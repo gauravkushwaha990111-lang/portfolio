@@ -8,7 +8,7 @@ import {
 } from "framer-motion";
 import ReactLenis from "lenis/react";
 import React, { useRef } from "react";
-import { Skiper62 } from "./skiper62";
+import { Skiper62 } from "@/components/ui/skiper-ui/skiper62";
 import { bodoniModa } from "@/lib/fonts";
 
 interface para {
