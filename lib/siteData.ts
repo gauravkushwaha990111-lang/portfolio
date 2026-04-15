@@ -27,7 +27,7 @@ export const GAMES_IMAGES = [
 ];
 
 // 3. Featured Image (Instead of Grid Carousel)
-export const SINGLE_FEATURE_IMAGE = "https://i.pinimg.com/1200x/f4/e6/5c/f4e65c00ce0badaa0df0cad5ac1ecae6.jpg";
+export const SINGLE_FEATURE_IMAGE = "https://i.pinimg.com/736x/f8/17/30/f817309feed3f249de729c3becfd8e0d.jpg";
 
 // 4. Projects list
 export const MY_PROJECTS = [
@@ -46,7 +46,7 @@ export const MY_PROJECTS = [
   {
     title: "Tg bots &  web codes ",
     description: "We develop Telegram bots and provide their source codes.",
-    image:  "https://i.pinimg.com/1200x/bf/2c/bf/bf2cbffd7c91bd7a8b916d3c096aa46d.jpg", // Gamma project pic
+    image: "https://i.pinimg.com/1200x/bf/2c/bf/bf2cbffd7c91bd7a8b916d3c096aa46d.jpg", // Gamma project pic
     link: "#",
   }
 ];
@@ -66,7 +66,7 @@ export const MY_STATS = [
   {
     title: "City changed",
     subtitle: "Never stayed in one city",
-    value: 5,
+    value: 2,
     numberIn: 10,
     emptyRgba: "rgba(56, 189, 248, 0.5)",
     halfRgba: "rgba(56, 189, 248, 0.5)",

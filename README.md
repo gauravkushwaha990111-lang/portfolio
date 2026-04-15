@@ -1,8 +1,8 @@
-# Gaurav's Portfolio - Vibe Edition
+# Flins's Portfolio - Vibe Edition
 
 This is the source code for my personal portfolio website, built with a focus on modern aesthetics, smooth animations, and an interactive user experience. It's a showcase of my skills in front-end development and my passion for "vibe coding".
 
-**Live Demo:** https://gaurav-portfolio-vibe.vercel.app/
+**Live Demo:** https://flins-portfolio-vibe.vercel.app/
 
 
 
@@ -46,7 +46,7 @@ To run this project locally on your machine, follow these steps:
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/gauravkushwaha990111-lang/portfolio.git
+    git clone https://github.com/devflins2/portfolio.git
     ```
 
 2.  **Navigate to the project directory:**
@@ -70,7 +70,7 @@ To run this project locally on your machine, follow these steps:
 
 ## 🌐 Connect with me
 
--   **GitHub:** gauravkushwaha990111-lang
+-   **GitHub:** devflins2
 -   **Telegram:** @devg4urav
 -   **Discord:** gauravirat
 -   **Instagram:** @devflins_

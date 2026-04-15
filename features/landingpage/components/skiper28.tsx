@@ -11,14 +11,14 @@ import React, { useRef } from "react";
 import { Skiper62 } from "./skiper62";
 import { bodoniModa } from "@/lib/fonts";
 
-interface para{
-  text?:string;
-  arr?:string[]
+interface para {
+  text?: string;
+  arr?: string[]
 }
 
 const p = " Jatt seeweyan cho langheya chudail takkri jaani badi sohni bhoot female takkri .. kehndi jatta .. oye jatta.... kehndi jatta .. darke ho ja katha .. nai tan aah kar du ... nai tan waah kardu... tenu ethe khade khade nu swah kardu ... jatt kehnda hor menu kichahida ... jatt kehnda hor menu ki chahida .. avein gallan-baatan vich bohta sama na gva aaja chimbad ja ... mein keha chimbad ja .. . aaja chimbad ja ... mein keha chimbad ja .. ."
 
-const Skiper28 = ({text,arr}:para) => {
+const Skiper28 = ({ text, arr }: para) => {
   const targetRef = useRef<HTMLDivElement | null>(null);
   const { scrollYProgress } = useScroll({
     target: targetRef,
@@ -40,12 +40,12 @@ const Skiper28 = ({text,arr}:para) => {
         </div> */}
         <div className=" grid grid-cols-2 absolute w-full top-82  items-center">
           <div className=" flex justify-end " >
-           <Skiper62 arr={arr} /> 
+            <Skiper62 arr={arr} />
           </div>
-          
-          <h1  className={`text-[140px]  px-7 ${bodoniModa.className} `} >GAURAV</h1>
+
+          <h1 className={`text-[140px]  px-7 ${bodoniModa.className} `} >Flins</h1>
         </div>
-        
+
         <div
           className="sticky top-0 mx-auto flex items-center justify-center bg-transparent py-0"
           style={{

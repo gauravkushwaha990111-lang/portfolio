@@ -43,7 +43,7 @@ const Skiper28 = ({text,arr}:para) => {
            <Skiper62 arr={arr} /> 
           </div>
           
-          <h1  className={`text-[140px] px-7 ${pacifico.className} capitalize`} >GAURAV</h1>
+          <h1  className={`text-[140px] px-7 ${pacifico.className} capitalize`} >FLINS</h1>
         </div>
         
         <div

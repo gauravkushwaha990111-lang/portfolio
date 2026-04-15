@@ -17,8 +17,8 @@ const DiscordIcon = ({ size = 24 }) => (
 
 const Footer = () => {
   const socialLinks = [
-    { name: "GitHub", icon: <Github size={24} />, href: "https://github.com/gauravkushwaha990111-lang/" },
-    { name: "Telegram", icon: <Send size={24} />, href: "https://t.me/devg4urav" },
+    { name: "GitHub", icon: <Github size={24} />, href: "https://github.com/devflins2/" },
+    { name: "Telegram", icon: <Send size={24} />, href: "https://t.me/devflins" },
     { name: "Discord", icon: <DiscordIcon size={24} />, href: "https://discord.com/users/gauravirat" },
     { name: "Instagram", icon: <Instagram size={24} />, href: "https://instagram.com/devflins_" },
     { name: "Mail", icon: <Mail size={24} />, href: "gauravkushwaha9901.com" },
@@ -26,10 +26,10 @@ const Footer = () => {
 
   return (
     <footer className="w-full bg-transparent border-t border-white/10 flex flex-col items-center justify-center pt-16 pb-20 relative z-50">
-      
+
       {/* Copyright Text */}
       <p className="text-white/40 text-sm font-light tracking-wide mb-6">
-        © {new Date().getFullYear()} Gaurav. All rights reserved.
+        © {new Date().getFullYear()} Flins. All rights reserved.
       </p>
 
       {/* Social Icons */}

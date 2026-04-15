@@ -137,7 +137,7 @@ const Carousel_003 = ({
             autoplay
               ? {
                   delay: 1500,
-                  disableOnInteraction: true,
+                  disableOnInteraction: false,
                 }
               : false
           }
