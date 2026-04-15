@@ -1,6 +1,6 @@
 "use client";
 
-import { bodoniModa } from "@/lib/fonts";
+import { bodoniModa, geist } from "@/lib/fonts";
 import { AnimatePresence, motion } from "framer-motion";
 import { useCallback, useEffect, useMemo, useState } from "react";
 
